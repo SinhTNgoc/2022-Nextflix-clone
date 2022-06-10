@@ -23,9 +23,8 @@ yarn-debug.log*
 yarn-error.log*
 
 # 
-/src/components/featured
-/src/components/list
-/src/components/listItem
+
+
 /src/pages/login
 /src/pages/register
 /src/pages/watch
