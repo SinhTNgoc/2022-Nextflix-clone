@@ -25,6 +25,6 @@ yarn-error.log*
 # 
 
 
-/src/pages/login
+
 /src/pages/register
 /src/pages/watch
